@@ -1,5 +1,8 @@
 # Superstore Dashboard Analysis Project
 
+![image](https://github.com/user-attachments/assets/2cd8812f-f4b1-4221-b427-039a231e4453)
+![image](https://github.com/user-attachments/assets/ff28c350-59a9-4f10-9ac3-6544e5a907cb)
+
 ## Project Overview
 This Tableau project analyzes sales and profit performance for a fictional Superstore, focusing on regional and product-based insights. The dashboards are interactive, allowing users to filter and navigate seamlessly between views for a comprehensive data exploration experience.
 
