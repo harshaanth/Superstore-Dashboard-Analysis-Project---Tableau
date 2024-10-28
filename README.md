@@ -29,4 +29,6 @@ This Tableau project analyzes sales and profit performance for a fictional Super
 ## Conclusion
 This project demonstrates Tableau’s capabilities in creating interactive, user-friendly dashboards for data-driven insights. The setup allows users to easily analyze and navigate Superstore’s regional and product data for informed decision-making.
 
+## Files in Repository
 
+- **Starter-create-navigation-between-dashboards_Harshaanth.twbx**
